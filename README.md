@@ -18,8 +18,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,sass,bootstrap,figma,git&theme=light)](https://skills.thijs.gg) <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="
-file:///C:/Users/filip/Downloads/Cypress_Logomark_Color_Dark_BG%201.svg" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/FilipW98/FilipW98/blob/main/Cypress_Logomark_Color_Dark_BG%201.svg" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a>
 
 
 <!-- 
