@@ -16,7 +16,9 @@
 
 
 
-
+<br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,sass,bootstrap,figma,git&theme=light)](https://skills.thijs.gg)
