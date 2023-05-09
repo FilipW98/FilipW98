@@ -9,7 +9,7 @@
  
 - 📫 How to reach me **filip.wozniak98@wp.pl**
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,14 +18,22 @@
 
 
 
-<br>
-<br>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,html,css,sass,bootstrap,figma,git&theme=light)](https://skills.thijs.gg)
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/FilipW98/FilipW98/blob/main/Cypress_Logomark_Color_Dark_BG%201.png" alt="cypress" width="47" height="47" style="border-radius:10px"/> </a>
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap icon" width="47" height="47"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git icon" width="47" height="47"/> </a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/FilipW98/FilipW98/blob/main/Cypress_Logomark_Color_Dark_BG%201.png" alt="Cypress icon" width="47" height="47"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg" alt="Vite icon" width="47" height="47" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma icon" width="47" height="47"/> </a> 
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipw98&show_icons=true&locale=en" alt="filipw98" /></p>
 
