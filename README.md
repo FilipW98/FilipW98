@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-- 🔭 I’m currently working on [Reservo](https://github.com/rezervo/Reservo-frontend)
+<!-- - 🔭 I’m currently working on first  -->
 
 - 🌱 I’m currently learning **React**
  
@@ -21,9 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript icon" width="47" height="47"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script icon" width="47" height="47"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="47" height="47"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="47" height="47"/> </a> 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass icon" width="47" height="47"/> </a> 
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipw98&show_icons=true&locale=en" alt="filipw98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipw98&" alt="filipw98" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipw98&" alt="filipw98" /></p> -->
