@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<!-- - 🔭 I’m currently working on first  -->
+
+- 🔭 I’m currently working on [ShoppingCart](https://github.com/FilipW98/ShoppingCart)
 
 - 🌱 I’m currently learning **React**
  
