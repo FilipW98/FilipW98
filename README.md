@@ -22,6 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress icon" width="47" height="47"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript icon" width="47" height="47"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script icon" width="47" height="47"/> </a> 
