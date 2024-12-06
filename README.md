@@ -21,18 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress icon" width="47" height="47"/> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript icon" width="47" height="47"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script icon" width="47" height="47"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="47" height="47"/> </a> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="47" height="47"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass icon" width="47" height="47"/> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap icon" width="47" height="47"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git icon" width="47" height="47"/>
-<img src="https://github.com/FilipW98/FilipW98/blob/main/Cypress_Logomark_Color_Dark_BG%201.png" alt="Cypress icon" width="47" height="47"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg" alt="Vite icon" width="47" height="47" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma icon" width="47" height="47"/> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Wordpress icon" width="47" height="47"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React icon" width="47" height="47"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript icon" width="47" height="47"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Type Script icon" width="47" height="47"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML icon" width="47" height="47"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS icon" width="47" height="47"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass icon" width="47" height="47"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind icon" width="47" height="47"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap icon" width="47" height="47"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git icon" width="47" height="47"/><img src="https://github.com/FilipW98/FilipW98/blob/main/Cypress_Logomark_Color_Dark_BG%201.png" alt="Cypress icon" width="47" height="47"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg" alt="Vite icon" width="47" height="47" /><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma icon" width="47" height="47"/> 
 
 
 
